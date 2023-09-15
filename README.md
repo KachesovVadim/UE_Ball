@@ -1,6 +1,8 @@
 # UE_Ball – Первое тестовое задание
 На стажировку в 42dev studio. 
 
+![bgfg](https://github.com/KachesovVadim/UE_Ball/assets/142095950/cbd65b92-c77d-484f-83aa-bb10052b50ea)
+
 Геймплейный ролик - https://youtu.be/8aSiHEYz9OE?si=GViK071dAaMX2u2H
 
 Билд игры - https://drive.google.com/file/d/1iSfzFSQ70l5wC9UuJYzeq3YAuqvF2Z3w/view?usp=sharing
