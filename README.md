@@ -1,6 +1,10 @@
 # UE_Ball – Первое тестовое задание
 На стажировку в 42dev studio. 
 
+Геймплейный ролик - XX
+
+Билд игры - ХХ
+
 <details><summary>Техническое задание (нажми)</summary>
 <p>
   
@@ -47,3 +51,20 @@
 ПКМ, ЛКМ – стрельба
 
 Е - взаимодействие
+
+## Фотогалерея
+![Снимок экрана (176)](https://github.com/KachesovVadim/UE_Ball/assets/142095950/1a382f24-32e0-48f2-972a-38dec84ec3cd)
+![Снимок экрана 2023-09-15 165437](https://github.com/KachesovVadim/UE_Ball/assets/142095950/6870bf84-bed1-48bf-9412-1068aaff8537)
+**Уровень 1**
+
+![Снимок экрана (192)](https://github.com/KachesovVadim/UE_Ball/assets/142095950/7d6e9417-2552-46dc-be09-37d74165cdd5)
+![Снимок экрана 2023-09-15 165531](https://github.com/KachesovVadim/UE_Ball/assets/142095950/630974ab-26f8-400f-88d2-9073f113abc9)
+**Уровень 2**
+
+![Снимок экрана (197)](https://github.com/KachesovVadim/UE_Ball/assets/142095950/35e6d864-99fc-410e-a0a0-7838f693d0d2)
+![Снимок экрана (208)](https://github.com/KachesovVadim/UE_Ball/assets/142095950/c3df9c82-0e9e-4d4b-b01a-20611895e44f)
+**Уровень 3**
+
+![Снимок экрана (210)](https://github.com/KachesovVadim/UE_Ball/assets/142095950/9d643e44-af2a-4bf6-a6bf-05c45a6e9c3e)
+
+
