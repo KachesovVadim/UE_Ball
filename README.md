@@ -1,9 +1,9 @@
 # UE_Ball – Первое тестовое задание
 На стажировку в 42dev studio. 
 
-Геймплейный ролик - XX
+Геймплейный ролик - https://youtu.be/8aSiHEYz9OE?si=GViK071dAaMX2u2H
 
-Билд игры - ХХ
+Билд игры - https://drive.google.com/file/d/1iSfzFSQ70l5wC9UuJYzeq3YAuqvF2Z3w/view?usp=sharing
 
 <details><summary>Техническое задание (нажми)</summary>
 <p>
